@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-800;
+}
+
+.none-if-empty:empty {
+  display: none;
+}
