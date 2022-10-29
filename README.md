@@ -6,7 +6,7 @@ A crowdsourced catalog of telegram channels. This project is an example project 
 
 ## Features
 
-- users can see list of channels from the catalog
+- users can see channels from the catalog
 - users can add new channels to the catalog
 - the channels can be tagged with categories
 
