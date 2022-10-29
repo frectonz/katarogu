@@ -1,4 +1,4 @@
-# Katagoru
+# Katarogu
 
 ![logo](./public/favicon.svg)
 
@@ -19,7 +19,7 @@ A crowdsourced catalog of telegram channels. This project is an example project 
 
 ## Name
 
-`Katagoru` = `Catalog` in Japanese.
+`Katarogu` = `Catalog` in Japanese.
 
 ## Screenshots
 
