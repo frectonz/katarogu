@@ -4,6 +4,8 @@
 
 A crowdsourced catalog of telegram channels. This project is an example project for [Fana Protocol](https://github.com/baydisng13/fana-doc/blob/main/README.md) a REST api for accessing data from telegram channels.
 
+## [Check it out](https://katarogu.netlify.app/)
+
 ## Features
 
 - users can see channels from the catalog
